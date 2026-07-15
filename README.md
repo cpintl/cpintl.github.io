@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Mohammad Ariful Islam
 
-<!--
-**cpintl/cpintl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Health Systems Architect** | **Humanitarian Digital Infrastructure** | **Public Health Professional**
 
-Here are some ideas to get you started:
+> *Designing technology that saves lives in crisis zones.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Focus Areas
+
+- 🏥 Health Information Systems (HIS) for crisis zones
+- 🔐 FHIR/HL7 interoperability standards
+- 📱 Offline-first, low-bandwidth applications
+- 🤝 Humanitarian program management
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpintl&show_icons=true&theme=github_dark)
+
+---
+
+## 🚀 Current Projects
+
+- **ZarishHealth** — Open-source health management system
+- **ZarishLog** — A complete warehouse and inventory management system
+
+---
+
+## 🔗 Connect
+
+[LinkedIn](https://linkedin.com/in/arifulislambgd) · [Email](mailto:ariful@cpi-ypsa.org) · [Portfolio](#)
+
+---
+
+*Auto-updated via GitHub Actions | Last sync: 2026-07-15*
