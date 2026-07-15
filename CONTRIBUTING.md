@@ -1,111 +1,65 @@
-# Contributing to This Profile Repository
+# Contributing to CPI Bangladesh Health Systems Projects
 
-Thank you for your interest in contributing! This repository is for my professional GitHub profile and related projects.
+Thank you for your interest in contributing to ZarishLog, ZarishHIS, or CPI Bangladesh documentation!
 
----
+## How to Contribute
 
-## 🎯 What This Repository Is
+### 1. **Report a Bug**
+- [Open an issue](https://github.com/cpintl/cpintl.github.io/issues/new) with detailed description
+- Include steps to reproduce, expected behavior, and actual behavior
+- Attach logs or screenshots if applicable
 
-This is the **special profile repository** that displays a README on my GitHub profile page. It also serves as a hub for:
+### 2. **Suggest a Feature**
+- [Open a discussion](https://github.com/cpintl/cpintl.github.io/discussions/new)
+- Describe the feature and why it would be valuable
+- Link to relevant requirements or use cases
 
-- My professional biography and project portfolio
-- Community standards and guidelines
-- Links to active projects
-- Updated GitHub activity and statistics
+### 3. **Improve Documentation**
+- Fork the repository
+- Make edits in a feature branch (`docs/your-improvement`)
+- Submit a pull request with clear description
+- Ensure Markdown follows ZUSS standard (see below)
 
----
-
-## 🤝 How to Contribute
-
-### Report Issues or Suggestions
-
-1. Go to **[Issues](../../issues/new)**
-2. Click **New issue**
-3. Choose **Feature request** or **Bug report**
-4. Describe your suggestion clearly
-
-**Examples of good contributions:**
-- Suggestions to improve profile content
-- Corrections to technical information
-- Links to relevant resources or standards
-- Improvements to documentation
-
-### Suggest a Profile Update
-
-If you have suggestions for:
-- Better project descriptions
-- Additional resources or links
-- Improved community information
-- Broken link fixes
-
-Please [open an issue](../../issues/new) with your suggestion.
+### 4. **Code Contributions**
+- Contact Mohammad Ariful Islam (ariful@cpi-ypsa.org) to discuss approach first
+- Fork and create a feature branch (`feat/your-feature`)
+- Follow Go/Python style conventions (TBD in project README)
+- Write clear commit messages
+- Submit PR with detailed description and testing notes
 
 ---
 
-## 📝 Our Community Standards
+## Development Standards
 
-By participating, you agree to uphold our [Code of Conduct](./CODE_OF_CONDUCT.md):
+### Markdown (Documentation)
+- **File naming:** snake_case.md (e.g., `his-requirements.md`)
+- **Headers:** Use H1 (#) for title, H2 (##) for sections, H3 (###) for subsections
+- **Links:** Use relative paths for internal docs: `[link](./other-file.md)`
+- **Tables:** Use standard Markdown tables; keep columns ≤5 for readability
+- **Code blocks:** Specify language for syntax highlighting (````go`, ````sql`, etc.)
 
-- ✅ Use welcoming and inclusive language
-- ✅ Be respectful of differing opinions
-- ✅ Accept constructive criticism gracefully
-- ✅ Show empathy towards community members
-- ✅ Respect cultural differences
+### Git Commits
+- **Format:** `type(scope): subject`
+- **Types:** feat, fix, docs, refactor, test, chore
+- **Examples:**
+  - `docs: add ZarishHIS implementation guide`
+  - `feat(his): add CHW mobile app module`
+  - `fix: correct FCN validation logic`
 
----
-
-## 🚀 Contribution Workflow
-
-1. **Fork** this repository (click Fork button)
-2. **Create a branch** — `git checkout -b feature/my-improvement`
-3. **Make your changes** — Edit files via GitHub or locally
-4. **Commit clearly** — `git commit -m "docs: improve project description"`
-5. **Push to your fork** — `git push origin feature/my-improvement`
-6. **Open a Pull Request** — Describe your changes clearly
-
----
-
-## 📋 Commit Message Guidelines
-
-Use [Conventional Commits](https://www.conventionalcommits.org/):
-
-```
-docs: update README with new projects fix: correct broken link feat: add humanitarian tech section
-```
-
-**Common types:**
-- `docs:` — Documentation updates
-- `fix:` — Corrections or broken links
-- `feat:` — New sections or features
+### Pull Requests
+- Link to relevant issue(s)
+- Describe changes clearly
+- Request review from relevant team member
+- Ensure all CI checks pass before merging
 
 ---
 
-## ✅ PR Checklist
+## Questions?
 
-Before submitting your pull request:
-
-- [ ] I've reviewed my own changes
-- [ ] Links are correct and working
-- [ ] No typos or grammatical errors
-- [ ] Changes align with the Code of Conduct
-- [ ] I've written a clear PR description
+📧 **Email:** ariful@cpi-ypsa.org  
+💬 **GitHub Discussions:** [Open a discussion](https://github.com/cpintl/cpintl.github.io/discussions)  
+🔗 **LinkedIn:** [arifulislambgd](https://linkedin.com/in/arifulislambgd)
 
 ---
 
-## ❓ Questions?
-
-- 📧 Email: [ariful@cpi-ypsa.org](mailto:ariful@cpi-ypsa.org)
-- 💬 GitHub Issues: [Open a question](../../issues/new)
-- 🔗 LinkedIn: [Connect here](https://linkedin.com/in/arifulislambgd)
-
----
-
-## 🙏 Thank You!
-
-Your contributions help make this profile and community better for everyone.
-
-**Welcome to the community! 🚀**
-
----
-
-*Based on open-source contribution guidelines | Last Updated: 2026-07-15*
+**Thank you for contributing to health systems for vulnerable populations! 🙏**

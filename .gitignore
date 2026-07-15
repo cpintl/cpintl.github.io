@@ -1,40 +1,19 @@
-name=.gitignore url=https://github.com/cpintl/cpintl.github.io/blob/main/.gitignore
-# macOS
+# OS
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# Windows
 Thumbs.db
-Desktop.ini
 
-# Linux
-.directory
-
-# IDE & Editors
+# IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-.sublime-project
-.sublime-workspace
 
-# Node.js (if used for GitHub Pages)
+# Dependencies
 node_modules/
-npm-debug.log
-yarn-error.log
-
-# Python (if used for scripts)
-__pycache__/
-*.py[cod]
-*$py.class
-.Python
-.venv/
-env/
 venv/
-
-# Local environment files
+__pycache__/
+*.pyc
 .env
 .env.local
 
@@ -42,13 +21,21 @@ venv/
 dist/
 build/
 *.o
-*.out
+*.a
+*.so
+
+# Sensitive files
+*.key
+*.pem
+*.cert
+secrets.yml
+credentials.json
+
+# Logs
+*.log
+logs/
 
 # Temporary files
 *.tmp
-*.bak
-*.backup
-
-# OS-specific
-.TemporaryItems/
-.VolumeIcon.icns
+*.temp
+.cache/
