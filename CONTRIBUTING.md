@@ -68,3 +68,44 @@ By participating, you agree to uphold our [Code of Conduct](./CODE_OF_CONDUCT.md
 ## 📋 Commit Message Guidelines
 
 Use [Conventional Commits](https://www.conventionalcommits.org/):
+
+```
+docs: update README with new projects fix: correct broken link feat: add humanitarian tech section
+```
+
+**Common types:**
+- `docs:` — Documentation updates
+- `fix:` — Corrections or broken links
+- `feat:` — New sections or features
+
+---
+
+## ✅ PR Checklist
+
+Before submitting your pull request:
+
+- [ ] I've reviewed my own changes
+- [ ] Links are correct and working
+- [ ] No typos or grammatical errors
+- [ ] Changes align with the Code of Conduct
+- [ ] I've written a clear PR description
+
+---
+
+## ❓ Questions?
+
+- 📧 Email: [ariful@cpi-ypsa.org](mailto:ariful@cpi-ypsa.org)
+- 💬 GitHub Issues: [Open a question](../../issues/new)
+- 🔗 LinkedIn: [Connect here](https://linkedin.com/in/arifulislambgd)
+
+---
+
+## 🙏 Thank You!
+
+Your contributions help make this profile and community better for everyone.
+
+**Welcome to the community! 🚀**
+
+---
+
+*Based on open-source contribution guidelines | Last Updated: 2026-07-15*
