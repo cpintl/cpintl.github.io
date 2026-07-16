@@ -48,7 +48,8 @@ My work bridges clinical excellence, international health standards (FHIR, HL7, 
 🤝 **CPI Bangladesh Health Programs**
 - **HCV Program:** WHO 90-90-90 cascade (testing, diagnosis, treatment, cure verification)
 - **CVD/NCD Program:** Hypertension & diabetes screening, treatment, follow-up
-- **Health Outreach Program (HOP):** 1,000+ Community Health Workers, doorstep screening
+- **Health Outreach Program (HOP):** Community Health Workers, doorstep services
+- **Health Post Program (HPP):** Health facility, CPI Health Post (UID 418), Camp 01 West (1W)
 - **Health System Strengthening (HSS):** District hospital partnerships, clinical capacity building
 
 ---
@@ -177,14 +178,14 @@ Operating since 2017 across two primary camps (Camp 1W, Camp 4) with:
 ## 📋 Documentation & Resources
 
 ### **Repositories**
-- **[zarishlog](https://github.com/cpintl/zarishlog)** — Supply chain & inventory management system
-- **[zarishhis](https://github.com/cpintl/zarishhis)** — Health information system (FHIR-based)
+- **[ZarishLog](https://github.com/cpintl/zarishlog)** — Supply chain & inventory management system
+- **[ZarishHIS](https://github.com/cpintl/zarishhis)** — Health information system (FHIR-based)
 - **[cpintl-standards](https://github.com/cpintl/cpintl-standards)** — Health standards & interoperability documentation
-- **[cpintl.github.io](https://github.com/cpintl/cpintl.github.io)** — This profile & organizational hub
+- **[cpintl.github.io](https://github.com/cpintl/cpintl)** — This profile & organizational hub
 
 ### **Key Documents**
 - 📄 **[ZarishLog Technical Blueprint](./docs/zarishlog-technical-blueprint.md)** — Complete supply chain system design
-- 📋 **[HIS Requirements Checklist v1.0](./docs/his-requirements-checklist.md)** — 390-item requirements for ZarishHIS
+- 📋 **[HIS Requirements Checklist](./docs/his-requirements-checklist.md)** — 390-item requirements for ZarishHIS
 - 🏥 **[CPI Bangladesh Mission Profile](./docs/cpi-bangladesh-profile.md)** — Organizational context & governance
 - 🔄 **[FHIR Implementation Guide](./docs/fhir-implementation-guide.md)** — Standard-based data modeling
 
@@ -209,6 +210,7 @@ Operating since 2017 across two primary camps (Camp 1W, Camp 4) with:
 | **Ministry of Health (Bangladesh)** | Government liaison | DGHS, Cox's Bazar Civil Surgeon |
 | **District Sadar Hospital (DSH)** | Clinical partner | HSS program (Emergency Department) |
 | **Friendship (NGO)** | Health program partner | Camp 5 sentinel screening |
+| **RTMI (INGO)** | Health program partner | Camp 5 NCD corner |
 | **icddr,b** | Research partner | CVD-HCV cluster randomized trial |
 
 ---
